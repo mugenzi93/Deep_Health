@@ -37,7 +37,7 @@ Predict the next re-admission to the hospital for diabetes.
 4. **Feature Engineering**. Base on your domain knowledge, you can derive new features out of the original features. You can also transform original variables. For example by encoding categorical variables into numerical ones using LabelEncoding when categories are ordered or OneHotEncoder otherwise. Sometimes, this step can be done together with data cleaning
 
 5. **Exploratory data analysis**. It's highly advised to consider doing a visual analysis of the the dataset. In this stage, the goal is
-  - to study distributions of dependent variables with respect to the target variable and therefore be able to manually identify the most significant variables for the predictions in mind.
+  - to study distributions of independent variables with respect to the target variable and therefore be able to manually identify the most significant variables for the predictions in mind.
   - to study to correlations and relationship among variables. This can help to reduce the dimension of the dataset. For example, if you find two or many highly correlated independent variables, you can safely use one of them and drop the other variables correlated to it.
   - to run statistical/hypothesis tests (t-test, chi-square test, f-test, anova, ...) to have a quantitative feel about the significance of the variable with respect to the target variable.
   - Identify techniques to be used in order to reduce the dimension if necessary (Principal Component Analysis - PCA, Linear Discriminant Analysis - LDA, Singular value decomposition - SVD, factor analysis, ...)
