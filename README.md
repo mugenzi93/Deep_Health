@@ -14,6 +14,6 @@ Predict the next re-admission to the hospital for diabetes.
   - readmission and number of visits
   - patient's age, weight, gender and number of visits. For example, it's interesting to see who visit Dr's more often between young and old people, male and females, and how can the weight play a role
 
-### 5. Investigate the relationship between the readmission and the number of previous diagnosis
+#### 5. Investigate the relationship between the readmission and the number of previous diagnosis
 
-### 6. Build a model to predict the readmission based on the given dataset. What are the most significants variables to predict a patient's readmission?
+#### 6. Build a model to predict the readmission based on the given dataset. What are the most significants variables to predict a patient's readmission?
