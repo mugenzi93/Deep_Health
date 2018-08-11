@@ -19,7 +19,7 @@ Predict the next re-admission to the hospital for diabetes.
 #### 6. Build a model to predict the readmission based on the given dataset. What are the most significants variables to predict a patient's readmission?
 
 
-## Recommendd Resources:
+## Recommended Resources:
 - 8min tutorial on R notebook: https://www.youtube.com/watch?v=TJmNvfhLCoI
 - course intro to R: https://www.datacamp.com/courses/free-introduction-to-r
 - tutorial of looping in R: https://www.datacamp.com/community/tutorials/tutorial-on-loops-in-r
