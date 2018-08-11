@@ -17,3 +17,10 @@ Predict the next re-admission to the hospital for diabetes.
 #### 5. Investigate the relationship between the readmission and the number of previous diagnosis
 
 #### 6. Build a model to predict the readmission based on the given dataset. What are the most significants variables to predict a patient's readmission?
+
+
+## Recommendd Resources:
+
+- recommended course intro to R: https://www.datacamp.com/courses/free-introduction-to-r
+- tutorial of looping in R: https://www.datacamp.com/community/tutorials/tutorial-on-loops-in-r
+- book: https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf
