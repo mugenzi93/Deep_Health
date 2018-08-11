@@ -20,7 +20,7 @@ Predict the next re-admission to the hospital for diabetes.
 
 
 ## Recommendd Resources:
-
-- recommended course intro to R: https://www.datacamp.com/courses/free-introduction-to-r
+- 8min tutorial on R notebook: https://www.youtube.com/watch?v=TJmNvfhLCoI
+- course intro to R: https://www.datacamp.com/courses/free-introduction-to-r
 - tutorial of looping in R: https://www.datacamp.com/community/tutorials/tutorial-on-loops-in-r
 - book: https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf
