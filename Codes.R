@@ -59,14 +59,14 @@ for(x in categorical_col) {
 cont.fun <- function(z,df) {
   s <- sum(is.na(df[z]))
   if (s > 0) {
-    t <- mean(df[,z])
+    t <- mean(df[,z], na.rm = T)
     df[is.na(df[,z]), z] <- t
   }
   df[z]
 }
 for(z in numerical_col) {
-  feedback <- cont.fun(z,df)
-  print(feedback)
+  df[z] <- cont.fun(z,df)
+  #print(feedback)
 }
 ## subset(df, is.na(df$number_outpatient))["number_outpatient"]
 # We can use the row 71 to check if every missing values in continuous variables has been taken care of. 
