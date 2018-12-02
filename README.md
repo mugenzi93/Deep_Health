@@ -4,7 +4,7 @@ Predict the next re-admission to the hospital for diabetes.
 # Warmup Questions
 
 #### 1. What is the probability distribution for readmission?
-Let's ditermine the probability distribution for readmission by first determining the frequencies of each of the three entries in the re-admitted column. 
+Let's determine the probability distribution for readmission by first determining the frequencies of each of the three entries in the re-admitted column. 
 ```{r}
 e <- table(df$readmitted)
 d <- length(df$readmitted)
