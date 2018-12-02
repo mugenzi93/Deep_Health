@@ -47,7 +47,7 @@ e/d
   - to run statistical/hypothesis tests (t-test, chi-square test, f-test, anova, ...) to have a quantitative feel about the significance of the variable with respect to the target variable.
   - Identify techniques to be used in order to reduce the dimension if necessary (Principal Component Analysis - PCA, Linear Discriminant Analysis - LDA, Singular value decomposition - SVD, factor analysis, ...)
 
-6. **Modeling**. This is where the magic starts. Having seen the distributions, correlations, significance of variable and dimension of the data, it should become easier to decide which models to build. There is no rule to follow but I can say that it all comes with experience. The more models you build the easier it gets. Here, I will list common things which are done is this stage
+6. **Modeling**. This is where the magic starts. Having seen the distributions, correlations, significance of variable and dimension of the data, it should become easier to decide which models to build. There is no rule to follow but I can say that it all comes with experience. The more models you build the easier it gets. Here, I will list common things which are done at is this stage
   - reduce dimension
   - split data into train/test/validation
   - train, tune, optimize hyper-parameters for the model
@@ -55,7 +55,7 @@ e/d
 
 7. **Discuss the model**. This consists in assessing the model and trying to break it down. Also, it consists in suggesting future stages to improve it
 
-8. **Conclusion and Recommendation**. Here, summarize your work in one paragraph. Next, discuss the impact of the model on the problem that was to be tackled in very laymann terms. This what your boss (with limited technical knowledge) spends more of his time.
+8. **Conclusion and Recommendation**. Here, summarize your work in one paragraph. Next, discuss the impact of the model on the problem that was to be tackled in very laymann terms. This is what your boss (with limited technical knowledge) spends more of his time.
 
 ## Recommended Resources:
 - 8min tutorial on R notebook: https://www.youtube.com/watch?v=TJmNvfhLCoI
