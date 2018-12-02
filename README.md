@@ -32,7 +32,7 @@ e/d
 3. **Identify independent variables**. These are the variables to be used as inputs to the model in order to predict the target variable.
 
 3. **Data Cleaning**.
-  - Determine the format and datatype of each variable. Variables can be categorical or numerical. Categorical variables care usually provided as strings, characters or integer numbers with a relatively small cardinality. Numerical variables are usually floats and integers.
+  - Determine the format and datatype of each variable. Variables can be categorical or numerical. Categorical variables are usually provided as strings, characters or integer numbers with a relatively small cardinality. Numerical variables are usually floats and integers.
   - Find and note variable with missing values
   - Describe variables. You need to calculate statistical metrics (count, mean, standard deviation, median, mode, 25% and 75% quantile, ...) for each variable.
   - Treat missing values:
